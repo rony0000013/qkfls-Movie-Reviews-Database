@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@cloudant/cloudant": "^3.0.2",
-    "body-parser": "^1.17.x",
+    "body-parser": "^1.20.2",
     "cfenv": "^1.2.3",
     "dotenv": "^4.0.0",
     "ejs": "^3.1.5",

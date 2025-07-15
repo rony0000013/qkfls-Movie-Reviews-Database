@@ -15,13 +15,13 @@
     "url": "https://github.com/IBM-Cloud/get-started-node"
   },
   "dependencies": {
-    "@cloudant/cloudant": "^3.0.2",
+    "@cloudant/cloudant": "^4.5.1",
     "body-parser": "^1.17.x",
-    "cfenv": "^1.2.3",
+    "cfenv": "^1.2.4",
     "dotenv": "^4.0.0",
     "ejs": "^3.1.5",
     "express": "^4.15.x",
-    "ibm-watson": "^5.7.1",
+    "ibm-watson": "^8.0.0",
     "nodemon": "^2.0.6"
   },
   "author": "IBM Corp",
